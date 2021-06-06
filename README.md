@@ -5,7 +5,11 @@ Both files have explanations of the methods and usage in comments.
 
 # Methods
 Push(int value)
+
 Pop()
+
 Peek()
+
 isFull()
+
 isEmpty()
