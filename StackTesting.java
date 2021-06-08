@@ -6,7 +6,7 @@ public class StackTesting {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Welcome to my StackProgram.Stack program!");
+        System.out.println("Welcome to my Stack program!");
 
         System.out.println("Enter the size of your stack: ");
         //initializes size of stack to be used in stack object
